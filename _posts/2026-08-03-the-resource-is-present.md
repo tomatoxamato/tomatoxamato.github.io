@@ -18,7 +18,7 @@ That distinction makes the capitalism critique structural rather than decorative
 
 A transparent bottle filled with water but enclosed in a soft, pink, thorn-covered sleeve like the bottle you photographed. Its drinking valve opens only after the user turns a resistant hand crank a set number of times.
 
-Every 30 rotations releases one small serving. The mechanism is transparent, revealing that the crank does not pump or filter the water—it spins a useless flywheel before withdrawing a simple latch.
+Every 30 rotations releases one small serving. The mechanism is transparent: the crank does not pump or filter the water, it only spins a useless flywheel before withdrawing a simple latch.
 
 Two gauges show:
 
@@ -39,9 +39,9 @@ A transparent breadbox framed in raw cast aluminum, resembling a combination of 
 
 To receive one slice, the user inserts and stamps a miniature timecard. The mechanism advances the loaf exactly one slice toward a narrow opening. The user can always see that more food exists than they are allowed to receive.
 
-The timecard records hours "worked" rather than money spent, making the exchange between labor and survival explicit.
+The timecard records hours "worked" rather than money spent, so the exchange between labor and survival is explicit.
 
-**Statement:** Hunger can exist beside abundance when access—not supply—is scarce.
+**Statement:** Hunger can exist beside abundance when access (not supply) is scarce.
 
 **The three grammars:**
 
@@ -53,7 +53,7 @@ The timecard records hours "worked" rather than money spent, making the exchange
 
 A window blind made from heavy raw-aluminum louvers. Daylight is visible between them, but the blind normally remains closed.
 
-To open it, the user must punch a timecard and turn a deliberately inefficient flywheel. Once opened, a timer begins counting down. After several minutes, the louvers close again—even if abundant daylight remains outside.
+To open it, the user must punch a timecard and turn a deliberately inefficient flywheel. Once opened, a timer begins counting down. After several minutes, the louvers close again even when abundant daylight remains outside.
 
 Its exposed counterweight reveals that the blind could easily remain open. The labor requirement exists solely because the product was designed to demand it.
 
@@ -89,7 +89,7 @@ The markers could be removed and distributed like archaeological artifacts. Some
 
 A domestic sofa modeled on a hostile public bench. Dividers break it into narrow, sloping seats that prevent reclining or lying down.
 
-A foot treadle is mounted in front of it. After the user performs a symbolic "shift"—perhaps eight minutes rather than eight hours—the dividers retract and the seat levels out. It remains comfortable for one minute before returning to its hostile configuration.
+A foot treadle is mounted in front of it. After the user performs a symbolic "shift" (eight minutes rather than eight hours), the dividers retract and the seat levels out. It remains comfortable for one minute before returning to its hostile configuration.
 
 A transparent panel reveals that the mechanism's default position could be comfortable. Springs have been deliberately added to restore discomfort.
 
@@ -107,14 +107,14 @@ This one extends your bottle theory beyond material resources. It treats time, c
 
 A low-temperature radiant panel is already producing warmth, but it sits behind an expanded-metal cage with heavy steel louvers.
 
-The user turns a separate crank to open the louvers for one minute. The crank does not power the heater—it only operates the barrier. When the allotted time expires, the louvers close and redirect the warmth away from the user.
+The user turns a separate crank to open the louvers for one minute. The crank does not power the heater; it only operates the barrier. When the allotted time expires, the louvers close and redirect the warmth away from the user.
 
 Two exposed meters distinguish between:
 
 - heat being produced;
 - heat being permitted through.
 
-A thermal-sensitive surface changes color behind the closed louvers, making the trapped abundance visible.
+A thermal-sensitive surface behind the closed louvers changes color, so the trapped abundance stays visible.
 
 **Statement:** The resource has not disappeared when access is terminated. It remains physically present on the other side of a contractual barrier.
 
@@ -151,7 +151,7 @@ The bottle's pale-pink spikes could become a recurring motif. They communicate h
 
 That creates an additional critique:
 
-> The system not only constructs barriers around necessities—it sells the appearance of those barriers back to us as lifestyle design.
+> The system not only builds barriers around necessities, it sells the appearance of those barriers back to us as lifestyle design.
 
 ### A wordless five-part narrative
 
