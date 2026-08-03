@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the about page. Write something about yourself here.
+This is the about page. But I don't want to write something about myself here.
