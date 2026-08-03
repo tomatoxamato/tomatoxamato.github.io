@@ -12,11 +12,11 @@ Every object follows one rule:
 
 > The resource is already available. The mechanism does not produce it—it merely withholds it until the user pays, works or submits.
 
-That distinction makes the capitalism critique structural rather than decorative. Spikes can reinforce the message, but the critique must survive without them.
+That distinction makes the capitalism critique structural rather than decorative. The machines would make the point just as clearly without the surface gestures that decorate them—the spikes, timers and gauges. Those details reinforce the critique; they do not carry it.
 
 ## 1. The Wage Bottle
 
-A transparent bottle filled with water but enclosed in a soft, pink, thorn-covered sleeve like the bottle you photographed. Its drinking valve opens only after the user turns a resistant hand crank a set number of times.
+A transparent bottle filled with water, enclosed in a soft, pink, thorn-covered sleeve. Its drinking valve opens only after the user turns a resistant hand crank a set number of times.
 
 Every 30 rotations releases one small serving. The mechanism is transparent: the crank does not pump or filter the water, it only spins a useless flywheel before withdrawing a simple latch.
 
@@ -101,7 +101,7 @@ A transparent panel reveals that the mechanism's default position could be comfo
 - **Hostile architecture:** it directly repurposes anti-sleeping bench design.
 - **Nuclear semiotics:** standing body → labor → seated body → reclining body → expulsion.
 
-This one extends your bottle theory beyond material resources. It treats time, comfort and rest as necessities placed behind a labor gate.
+The chair extends the argument beyond material resources: time, comfort and rest become necessities placed behind a labor gate.
 
 ## 6. The Heat Lease
 
@@ -126,7 +126,7 @@ A thermal-sensitive surface behind the closed louvers changes color, so the trap
 
 ## Shared visual language
 
-To make them feel like one collection rather than six unrelated art objects, I would give them all the same design system.
+To read as one collection rather than six unrelated objects, the machines share a single design system.
 
 ### Transparent abundance
 
