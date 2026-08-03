@@ -4,9 +4,8 @@
 # For more, see https://jekyllrb.com/docs/configuration/
 
 title: tomatoxamato
-email: your-email@example.com
 description: >-
-  A personal site hosted on GitHub Pages.
+  Stuff for big-brained smart people conversations.
 baseurl: "" # the subpath of your site, e.g. /blog (empty for a user site at the root)
 url: "https://lsglc.com" # the base hostname & protocol for your site
 
