@@ -12,7 +12,7 @@ Every object follows one rule:
 
 > The resource is already available. The mechanism does not produce it—it merely withholds it until the user pays, works or submits.
 
-That distinction makes the capitalism critique structural rather than decorative. The machines would make the point just as clearly without the surface gestures that decorate them—the spikes, timers and gauges. Those details reinforce the critique; they do not carry it.
+That distinction makes the capitalism critique structural rather than decorative. The machines would make the point without the surface gestures that decorate them—the spikes, timers and gauges. Those details reinforce the critique; they do not carry it.
 
 ## 1. The Wage Bottle
 
